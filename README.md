@@ -1,4 +1,4 @@
-# jogoCSharp
+# jogoCSharp - Número secreto entre 1 e 100
 
 ```
 Random aleatorio = new Random();
@@ -21,3 +21,5 @@ do {
 
 Console.WriteLine("O jogo acabou. Você acertou o número secreto!");
 ```
+
+Não esquece a star ⭐️
